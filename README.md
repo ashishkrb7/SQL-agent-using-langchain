@@ -14,7 +14,7 @@
     
 - Clone the repository to your local machine. 
 
-    `git clone https://github.com/ashishkrb7/SQL-gent-using-langchain.git sqlagent` 
+    `git clone https://github.com/ashishkrb7/SQL-agent-using-langchain.git sqlagent` 
 
 - Go to working directory
 
