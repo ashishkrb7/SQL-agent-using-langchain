@@ -1,4 +1,4 @@
-# How to make SQL gent using langchain for postgress database
+# How to make SQL agent using langchain for postgress database
 
 ## Installation procedure for local development
 
